@@ -1,4 +1,4 @@
-#https://leetcode.com/problems/minimum-size-subarray-sum/submissions/
+#https://leetcode.com/problems/minimum-size-subarray-sum/
 class Solution:
     def minSubArrayLen(self, target: int, nums: List[int]) -> int:
         #Return length of min. subarray
